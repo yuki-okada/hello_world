@@ -1,3 +1,2 @@
 ﻿  seccond homework.c
-d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(10): warning C4305: '=': 'double' から 'float' へ切り詰めます。
   seccond homework.vcxproj -> D:\project\hellow_world\seccond homework\Debug\seccond homework.exe
