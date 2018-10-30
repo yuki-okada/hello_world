@@ -1,4 +1,7 @@
 ﻿  seccond homework.c
-d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(23): warning C4098: 'func2': 戻り値の型が 'void' で宣言された関数が、値を返しました。
-d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(29): warning C4098: 'func1': 戻り値の型が 'void' で宣言された関数が、値を返しました。
-  seccond homework.vcxproj -> D:\project\hellow_world\seccond homework\Debug\seccond homework.exe
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(9): warning C4013: 関数 'func2' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(15): error C2371: 'func2': 再定義されています。異なる基本型です。
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(17): warning C4013: 関数 'func1' は定義されていません。int 型の値を返す外部関数と見なします。
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(20): warning C4098: 'func2': 戻り値の型が 'void' で宣言された関数が、値を返しました。
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(22): error C2371: 'func1': 再定義されています。異なる基本型です。
+d:\project\hellow_world\seccond homework\seccond homework\seccond homework.c(26): warning C4098: 'func1': 戻り値の型が 'void' で宣言された関数が、値を返しました。
